@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bibleapp-c8551",
+  "private_key_id": "2339dc1b4181a9e70a955c9912e4b0decb4a0390",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx71bjblCdj1A+\nkmEJFo2S6M+EWI/HWh9CYgUQAwy7BfJgrJUroncd981xYhZ8e4N1ceUIu2beyjtq\nZD0epjJrpLeYuSQot69vhP7a6U1/1hLM4TRTO7AoA2/tJ/rA0WGRQDZzo2bnujEQ\n/nN2YS8HJYXItziKXyiu+X870yuLNeXjzLMpHB08tx1p6g7Ow7UIvtiqPa/zEJdZ\n9Brnn85DdE23adrfp4gSWT/5Ln3cjOAAGcTPow21g/VpCaLc/UeDGOHaMU3tfeI7\nUDk3rRxrITeTSJQBbYn7OfQmL0URWY5+dDs0XclzQbrfJ3g1oE5Vtri1OAP7DShY\ndGXexTFJAgMBAAECggEAEPCpv6eTIHsCT2C5gQdfBWVpi06wqpCtkPD6zShTLBOP\n/Kz1mzTBnS5oRmMJo8KRFIt6PAt2at/LShDewkYdnwKssYsv0noRZ188sbv8Mz9e\n5RdMN1/jgJ26KFSR8o1EmhLoVDhSbd2bugPVm4e7VdV4UBCEfyT53zW0663KM5uu\nZHDMbuYOJd5NUO/v9wOUfO4S55Q/0P5Rggpj+SxwPR8SsbTo72/XLgaTS19LaErT\nz1PgcJINEhWU27WTINfkNB26u88mqvzFh0TjqRXvlj7F0xV/M6j4UJr7qpwEzvkx\nDixjhl3uJNjwQAplGn4BnPsRaoGKN7Ppy+ju35gCEQKBgQDmUndzyGgBY5J4dwLZ\n5BnbZzMuejafB4cdBeNI/MU9bOoqkWsm24s4HDyvd5rbFmCkOOyL/tkv3AK+nK9t\nUO3Fq/5S9fRZINQW6U3CRzpcTeIUGWIJGIOp+OnhcehWuthDLmrAs2RK8fZ1JAkI\nclGWFrAEZ3DcdOAWWPStC5Tk0QKBgQDFxbW79NzJscRTFaz8AAhzApVhV+BmXBTL\nV5/DDo7zmB2Mo8sCmCUWgoPigEp2k42OmGkUGJs7Ads8VemZc+nsCQJI9Gs33f7k\n96e9jr9QrNYEepxK7YB5y7NBp2GJe2K7IR8uJa9rbNJqTf/bvhJbAbHVWFmcdY8L\nU+SPvNkC+QKBgGQro6YomAtamf5ojEXlrdU9egYRwyXBKWNXBzXcMZB4iROAcWDS\nBSefKEmMND5q6hciZsawTRdCkbMDBEz/8JmTJyY/sEj/PR7F0zrWrawtd1EUhQ29\nqq3HAzk4yDrIQnxdeLJckxcBSxZBWOhih9dGAMG5l11aO4ecorWMHvKxAoGAEVPn\nPlaP2aQXnWfyxgmCtADv8Z1vbch3kfFVcBOgdrtHK4FWUh3ecgBxabDv1T/MUUgN\nPNODFkJtYPXuB6HeRu3rI1U256gtowYHzlXpcToTbkUH2JDChulQBVqS8ya6Wcbn\nInXuzqy0Ktg2qJwYo5ycZiLdhxXNuKJbDjTvlpECgYEAgj2aK1PRx41lwH/qqfEO\nvGZOOWjwda/hdtzekH9s/X0UeW7AlwRu9iarSioC3nkx/pRBgG0EjDDARamVpnw+\n4/nlGWiFdt55QzbLbtYRf+r06B2NYffuN7NIqwDngF/A3SOrEYPMsaYP1nWHD4RF\nUK70WJTQKytt4S11QqwpBrs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v12fs@bibleapp-c8551.iam.gserviceaccount.com",
+  "client_id": "112986961232016575539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v12fs%40bibleapp-c8551.iam.gserviceaccount.com"
+}
